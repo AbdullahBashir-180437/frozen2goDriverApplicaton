@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568732268057",
+    "project_id": "frozen2go-19193",
+    "storage_bucket": "frozen2go-19193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568732268057:android:a0bce082cf57defcb3dc88",
+        "android_client_info": {
+          "package_name": "com.abdullah.frozendriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568732268057-275t293uepc28o676horcfbv4crpsklr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf9nCEeAS3iX6HOf-OTMLS3gQblOcsD-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568732268057-275t293uepc28o676horcfbv4crpsklr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
